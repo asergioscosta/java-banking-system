@@ -1,17 +1,20 @@
+package org.example;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@AllArgsConstructor
+@NoArgsConstructor
+@Getter
+@Setter
 public class ContaCorrente extends Conta {
 
     private Double limite;
 
     public ContaCorrente(String numero) {
         super(numero);
-    }
-
-    public Double getLimite() {
-        return limite;
-    }
-
-    public void setLimite(Double limite) {
-        this.limite = limite;
     }
 
     public void depositar(Double valor) {
@@ -28,12 +31,12 @@ public class ContaCorrente extends Conta {
         }
     }
 
-    public void transferir(Double valor) {
+    public void transferir(Double valor, Conta destino) {
         if (calcularSaldo() < valor) {
             System.out.println("Saldo Insuficiente");
         } else {
             this.sacar(valor);
-            this.depositar(valor);
+            destino.depositar(valor);
         }
     }
 

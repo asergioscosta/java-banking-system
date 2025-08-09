@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TrabalhoOrientacaoObjetos.iml" filepath="$PROJECT_DIR$/TrabalhoOrientacaoObjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/.idea/TrabalhoOrientacaoObjetos.iml" filepath="$PROJECT_DIR$/backend/.idea/TrabalhoOrientacaoObjetos.iml" />
     </modules>
   </component>
 </project>

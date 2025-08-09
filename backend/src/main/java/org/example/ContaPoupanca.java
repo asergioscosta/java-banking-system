@@ -1,3 +1,10 @@
+package org.example;
+
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
+
+@AllArgsConstructor
+@NoArgsConstructor
 public class ContaPoupanca extends Conta {
 
     private Double rentabilidademensal;
@@ -41,5 +48,4 @@ public class ContaPoupanca extends Conta {
     public Double calcularSaldo() {
         return (this.calcularsaldocontapoupancac() - this.calcularsaldocontapoupancad());
     }
-
 }

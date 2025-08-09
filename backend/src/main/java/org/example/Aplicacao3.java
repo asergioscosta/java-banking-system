@@ -1,3 +1,5 @@
+package org.example;
+
 public class Aplicacao3 {
     public static void main(String[] args) {
 

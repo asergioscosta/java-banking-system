@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d173c7b-2fc9-4b0e-bb63-9dbb66c610f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/Debito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabalhoOrientacaoObjetos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/TrabalhoOrientacaoObjetos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aplicacao1.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/Aplicacao1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aplicacao2.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/Aplicacao2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aplicacao3.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/Aplicacao3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aplicacao4.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/Aplicacao4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cargo.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/Cargo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/ContaPoupanca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Credito.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/Credito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Debito.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/IUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/Pessoa.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3140DRjMOczr3PayvVxxOoHRwKU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_directory_selection": "A:/java-banking-system/backend/src/main/java/org/example",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\java-banking-system\backend\src\main\java\org" />
+      <recent name="A:\java-banking-system\backend\src\main\java" />
+      <recent name="A:\java-banking-system\backend\src\main" />
+      <recent name="A:\java-banking-system\backend\src" />
+      <recent name="A:\java-banking-system\backend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Aplicacao1">
+    <configuration name="Aplicacao1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Aplicacao1" />
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aplicacao2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Aplicacao2" />
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aplicacao3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Aplicacao3" />
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aplicacao4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Aplicacao4" />
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Aplicacao1" />
+        <item itemvalue="Application.Aplicacao2" />
+        <item itemvalue="Application.Aplicacao3" />
+        <item itemvalue="Application.Aplicacao4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d173c7b-2fc9-4b0e-bb63-9dbb66c610f5" name="Changes" comment="" />
+      <created>1754767926268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754767926268</updated>
+      <workItem from="1754767926845" duration="724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

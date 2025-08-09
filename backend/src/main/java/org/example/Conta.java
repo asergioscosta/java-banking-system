@@ -1,6 +1,17 @@
+package org.example;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
 import java.util.ArrayList;
 
-public abstract class Conta {
+@AllArgsConstructor
+@NoArgsConstructor
+@Getter
+@Setter
+public class Conta {
     private String numero;
 
     private ArrayList<Credito> listaCredito = new ArrayList<Credito>();
@@ -8,30 +19,6 @@ public abstract class Conta {
 
     public Conta(String numero) {
         this.numero = numero;
-    }
-
-    public String getNumero() {
-        return numero;
-    }
-
-    public void setNumero(String numero) {
-        this.numero = numero;
-    }
-
-    public ArrayList<Credito> getListaCredito() {
-        return listaCredito;
-    }
-
-    public void setListaCredito(ArrayList<Credito> listaCredito) {
-        this.listaCredito = listaCredito;
-    }
-
-    public ArrayList<Debito> getListaDebito() {
-        return listaDebito;
-    }
-
-    public void setListaDebito(ArrayList<Debito> listaDebito) {
-        this.listaDebito = listaDebito;
     }
 
     public void addCredito(Credito credito) {
@@ -53,5 +40,4 @@ public abstract class Conta {
         debito.setValor(valor);
         this.addDebito(debito);
     }
-
 }
